@@ -6,7 +6,6 @@ public class Main {
         System.out.println(acc.fullName+" Ваш баланс: "+Account.deposit(300)+" сом");
         System.out.println(acc.fullName+" Ваш баланс: "+Account.withdrawal(400)+" сом");
 
-
         Account acc2=new Account();
         acc.fullName="Чыңгыз Шаршекеев: ";
         System.out.println(acc.fullName+" Ваш баланс: "+Account.deposit(1000)+" сом");
