@@ -17,6 +17,5 @@ public class Main {
         System.out.println(acc.fullName+" Ваш баланс: "+Account.withdrawal(600)+" сом");
 
 
-
     }
 }
